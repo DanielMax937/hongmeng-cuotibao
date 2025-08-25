@@ -1,4 +1,5 @@
-## 总结
+
+## 总结-V2.0
 1. navigation是用来展示子页面的。所以如果tab的形式，还是需要独立页面的形式
 2. 自定义组件，可以类比有状态的container，@Builder函数类比无状态的UI组件
 3. 如果涉及到slot，需要BuilderParam
